@@ -21,7 +21,7 @@ const About = () => {
          developer to add to your team, I'd love to hear from you!<br/>
          I also have interest in Data Scientist and currently working on various Projects.
         </p>
-        <form action="https://drive.google.com/file/d/1z_EsZ6UsyFkiF6nrUN2lySmBzzH9dLtV/view?usp=sharing" target='_blank'>
+        <form action="https://drive.google.com/file/d/17C1hA14t5H_Lbm0XhYAd0tlV6vT1f4RW/view?usp=sharing" target='_blank'>
         <button className='mybtn'>Download CV</button>
         </form>
       </div>
